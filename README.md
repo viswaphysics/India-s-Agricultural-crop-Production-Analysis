@@ -10,3 +10,7 @@ https://public.tableau.com/views/Vishwa/IndiasAgriculturalcropStory?:language=en
 
 Video demo link
 https://drive.google.com/file/d/11fcqShyZEIJfX77jCkF1kyMYColq1yn9/view?usp=sharing
+
+
+Dataset link 
+https://drive.google.com/file/d/1pX9ZmOO0-79zs9RL12Z68Kz0IoJjIilm/view?usp=sharing
